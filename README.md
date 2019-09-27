@@ -7,8 +7,10 @@ It will return a json-object with the property "message"
 
 ## Example
 
-'''
+```
 request: http://<url-to-service>
 response:
   {message: "Hello from GO!"}
-'''
+  ```
+
+
