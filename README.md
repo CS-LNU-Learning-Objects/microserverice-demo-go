@@ -1,1 +1,0 @@
-# microserverice-demo-go
