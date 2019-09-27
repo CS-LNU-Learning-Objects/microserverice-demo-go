@@ -1,1 +1,14 @@
-# microserverice-demo-go
+# Microservice demo - Go  
+This is a "Hello World"-API for the docker/kubernetes-assignment in the course 1dv032 at Linnaeus university.
+
+## API
+The API have one route at '/'
+It will return a json-object with the property "message"
+
+## Example
+
+'''
+request: http://<url-to-service>
+response:
+  {message: "Hello from GO!"}
+'''
